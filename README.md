@@ -29,5 +29,6 @@
 ### Output:
 <img src ='https://github.com/user-attachments/assets/fededab0-2891-4abe-8350-b0867e024cbc' width=50%>
 <img src ='https://github.com/user-attachments/assets/05dbdd29-1abf-4406-b0ab-ffcf1e324056' width=50%>
+
 ### Result:
 Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
